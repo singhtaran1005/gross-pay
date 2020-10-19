@@ -14,7 +14,7 @@ def bubbleSort(arr):
             # Swap if the element found is greater 
             # than the next element 
             if arr[j] > arr[j+1] : 
-                arr[j], arr[j+1] = arr[j+1], arr[j] 
+                arr[j], arr[j+1] = arr[j+1], arr[j] # swapping two values
   
 # Driver code to test above 
 arr = [64, 34, 25, 12, 22, 11, 90] 
