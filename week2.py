@@ -1,2 +1,2 @@
-x = 'From marquard@uct.ac.za'
-print(x[15:18])
+x = 'From dhanno@kiit.ac.in'
+print(x[6:11])
